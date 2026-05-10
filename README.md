@@ -1,5 +1,5 @@
 # mac-enum
-lightweight windows utility designed to enumerate network adapter mac addresses reported by the system and the ones reported by the adapters respective drivers
+lightweight windows utility designed to enumerate and compare network adapter mac addresses reported by the system and the ones reported by the adapters respective drivers
 ## usage
 
 run the program and observe potential indiscrepancies between stemming from overriding the mac address locally using utilities like TMAC https://technitium.com/tmac/
