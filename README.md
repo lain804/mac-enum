@@ -4,7 +4,6 @@ lightweight windows utility designed to enumerate and compare network adapter ma
 
 run the program and observe potential indiscrepancies between stemming from overriding the mac address locally using utilities like TMAC https://technitium.com/tmac/
 
-(the driver results are better sources of truth)
-
 example:
+(the driver results are better sources of truth)
 <img width="481" height="294" alt="image" src="https://github.com/user-attachments/assets/a025d1ac-0a87-4eda-a795-94d4faef7474" />
